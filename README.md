@@ -24,6 +24,12 @@
 * git remote add origin git@github.com:myusername/myprojectname.git
 * git push -u origin master
 
+## Branches
+
+* git branch (to view branches)
+* git branch name (to create branch of name)
+* git checkout name (to switch to "name")
+
 
 
 
